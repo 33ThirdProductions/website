@@ -1,0 +1,9 @@
+Liquid Labs text bug: 32px font size, Husky Stash
+
+Zanecorp text bug: 28px font, URW Gothic
+
+140 Title Lozenges: glow grow by 4, feather by 8 from alpha selection of title
+
+The glows in the movie detail pages are all grow 3/feather 5; but this is too
+thick and I need to reduce... (so this note may go out of date if I don't
+remember to update)

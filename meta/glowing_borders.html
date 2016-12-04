@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Glowing Borders How To</title>
+<link rel="icon" type="image/png" href="../style/favicon.png" />
+<link rel="shortcut" type="image/png" href="../style/favicon.png" />
+<link rel="stylesheet" href="../style/standard.css" />
+<link rel="stylesheet" href="../style/splash.css" />
+<link rel="stylesheet" href="../style/main.css" />
+<link rel="stylesheet" href="../style/text_page.css" />
+<!-- BEGIN: AddThis -->
+<script type="text/javascript">
+  /* bs: adding "google_plusone" causes the +1 from google to render, totally out of character with all other controls */
+  var addthis_config = {
+    pubid: "ra-4ddc0c0c3e8d0c64",
+    data_track_clickback:true,
+    services_expanded: "amazonwishlist, bit.ly, blogger, delicious, digg, diigo, evernote, fark, google, googlebuzz, gmail, hotmail, livejournal, reddit, stumbleupon"
+  }
+</script>
+<script type="text/javascript"
+		src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
+<!-- END: AddThis -->
+</head>
+
+<body>
+<div id="nonFooter">
+<div id="content" class="container_12">
+  <div id="logo" class="grid_6">
+    <a href="../index.html">
+      <img src="../images/33third_banner_logo_lightbg-315x40.png" />
+    </a>
+  </div>
+  <div class="grid_6">
+	  <div class="addthis_toolbox addthis_default_style addthis_style"
+		   style="float: right">
+		<a class="addthis_button_facebook"></a>
+		<a class="addthis_button_twitter"></a>
+		<a class="addthis_button_email"></a>
+		<a class="addthis_button_more"></a>
+		<!-- a class="addthis_counter addthis_bubble_style"></a -->
+	  </div><!-- .addthis_toolbox -->
+	  <div style="float:right; width: 150px;">
+		<iframe allowtransparency="true" frameborder="0" scrolling="no"
+				src="http://platform.twitter.com/widgets/follow_button.html?screen_name=33ThirdProd&button=grey&show_count=false"
+				style="width:150px; height:20px; text-align: center;"></iframe>
+		<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+	  </div>
+	  <div style="clear: both; text-align: right;"><a href="../buy_the_posters.html">Buy the Posters!</a></div>
+  </div>
+  <div class="clear"></div>
+  <div class="grid_12">
+    <h1>Overview</h1>
+    <div class="p">
+      The new CSS3 'border-image' is great for custom borders. To get it
+      working takes a little bit of planning and careful image setup. But once
+      properly done, it's relatively robust.
+    </div>
+    <h2>Limitations</h2>
+    <div class="p">
+      Without the CSS3 image border, there's no clean way to achive this
+      effect. this kind of effect requires introducing extra elements to
+      contain the border images. It's not pretty and it's and fragile.
+    </div>
+    <div class="p">
+      The non-CSS3 solutions are also incompatible with the CSS3 solution.
+      Non-CSS image borders require a bunch of tables or divs... they break
+      the idea of CSS. So make a graceful standard border fallback and tell
+      users to upgrade if they want the image borders.
+    </div>
+    <h2>Border Image Basics</h2>
+    <div class="p">
+      You can check out the W3 specs or plenty of places for the boring
+      details. The basic idea is to take an image and define 4 inset cut lines
+      that divide the image into four coners, a top, right, bottom, and left
+      border, and the center image. Use the handy tool to wrap your head
+      around it.
+    </div>
+    == TODO ==
+
+    <div class="p">
+      Now that we have the basic idea down, we can make our 960-grid
+      compatible side tabs. The first step is to just incorporate a bordered
+      grid element.
+    </div>
+    <div class="p">
+      960gs' biggest weakness is borders. The problem goes down to what
+      'width' means in CSS... IMO, the spec made a bad choice, but what's done
+      is done. For the bordered elements, you have to adjust the width for the
+      border so you end up with something like:
+    </div>
+    == TODO ==
+    <div class="p">
+      Now that we've made room for the borders, the next trick is to overlap
+      the two borders so that the right edge of the tab (for a left-tab
+      effect) hides the border around the main content area, making the
+      selected tab visually blend with the content.
+    </div>
+    == TODO ==
+    <div class="p">
+      And you're done!
+    </div>
+    <!--
+
+     I want to talk about this, but it's a bit too detailed for my current
+     focus. Maybe a start on another artictle?
+
+     In the ideal, the source image is the minimum image that can be
+     extrapolated, without distortion, into the full size border. In practice,
+     this isn't always possible since the 'stretch' and 'round' options always
+     introduce some distortion.
+
+     Note, however, that distortion is not in-and-of-itself bad. The stretch
+     and round options are perfectly fine to use. When I say distortion in
+     this article, I mean any situation where the value of a given pixel
+     cannot trivially defined in relation to another pixel and a integer
+     scaling factor in both the horizontal and vertical.
+
+     What distortion does occur is bounded by the parameters in context.
+     A given level of distortion may be entirely acceptable.
+
+    -->
+    <div class="clear"></div>
+  </div><!-- .grid_12 -->
+  <div id="pageBorderRight"></div>
+  <div class="clear"></div>
+</div><!-- #content -->
+</div><!-- #nonFooter -->
+
+<div id="footer" class="container_12">
+  <div class="grid_2"><a href="http://www.liquid-labs.com"><img src="../images/liquid_labs_text_bug_light_bg-140x40.png" alt="Liquid Labs" /></a></div>
+  <div class="grid_8">
+	<a href="../credits.html">credits</a> | <a href="../contact.html">contact</a><br />
+	&copy;2011 Liquid Labs, LLC
+  </div>
+  <div class="grid_2"><a href="http://www.zanecorp.com"><img src="../images/zanecorp_text_bug_light_bg-140x40.png" alt="Zanecorp" /></a></div>
+  <div class="clear"></div>
+</div><!--#footer -->
+
+</body>
+</html>

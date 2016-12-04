@@ -1,0 +1,119 @@
+/* TODO: all color should be broken out into a page-type; the problem is we have black BG image pages and standard white BG text pages */
+body {
+	background-color: black;
+	color: #d0d0d0;
+}
+
+a {
+	color: #d0d0d0;
+}
+
+ol, ul {
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+:focus { outline: none; }
+
+img.poster, img.smallPoster {
+	margin-top: 20px;
+	border-width: 4px;
+	-moz-border-image: url(poster_border.png) 4 repeat;
+	-webkit-border-image: url(poster_border.png) 4 repeat;
+	border-image: url(poster_border.png) 4 repeat;
+}
+
+img.smallPoster {
+	margin-left: 20px;
+}
+
+.posterCaption {
+	font-weight: bold;
+	font-size: 150%;
+	color: #e0e0e0;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.imageOnly { line-height: 0; }
+
+div.p {
+	margin-bottom: 5px;
+	text-indent: 2.5em;
+}
+
+.function {
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+.credit {
+	padding-left: 15px;
+}
+
+#followings {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.subHeader {
+	font-size: 20px;
+	font-weigth: bold;
+}
+
+#posterOptions {
+	padding-top: 20px;
+}
+
+.moreLink {
+	font-size: 18px;
+}
+
+.posterMore {
+	position:absolute;
+	right:160px;
+	bottom: 4px;
+}
+
+.posterOption {
+	/* margin will collapse; want 20 on edges, but 40 in between */
+	text-align: center;
+}
+
+.posterOptionHeader {
+	text-align: center;
+	font-size: 18px;
+}
+
+.buyDiv {
+	text-align: right;
+}
+
+.buyPoster {
+	text-align: center;
+}
+
+#moreOptions {
+	float: right;
+	text-align: center;
+	font-size: 18px;
+	padding-top: 20px;
+}
+
+#___plusone_0 {
+	display: none;
+	visibility: hidden;
+}
+
+.addthis_32x32_style {
+    width: 144px;
+    margin: 0 auto;
+}
+
+#podcastIcon {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 2px;
+}

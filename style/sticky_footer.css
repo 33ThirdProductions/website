@@ -1,0 +1,25 @@
+/* sticky footer stuff */
+/* the first selector is an IE fix. The HTML and BODY should entirely fill the view */
+* html #nonFooter, html, body { height: 100%; }
+
+/* the non-footer needs to take up as much space as it needs... the actual declaration
+ * may make you think that the non-footer will take up more space than that, but this
+ * is what works */
+#nonFooter {
+  position: relative;
+  min-height: 100%;
+}
+
+/* the content bottom margin only comes into play when the footer snugs against the
+ *  content, in which case we need to make room for the footer by offsetting the
+ *  content from the bottom edge of the container */
+#content { padding-bottom: 100px; }
+
+/* the footer is then offset from the bottom and pulled over the non-footer by the
+ * height of the footer. Notice that padding is not included in height, so if you
+ * declare a specific height (which isn't always necessary), take that into account
+ * ... also height is different in IE, so you'll need IE specific rules too */
+#footer {
+  position: relative;
+  margin-top: -50px;
+}

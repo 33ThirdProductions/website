@@ -1,0 +1,30 @@
+#productionLine {
+	text-align: center;
+	/* I would like to do some dynamic vertical semi-centering, like:
+	 *   #content { margin-top: 50%; }
+	 *   #productionLine { margin-top: -250px; }
+	 * but that intereferes with sticky footer.
+	 *   #productionLine {
+	 *     padding-top: 50%;
+	 *     margin-top: -250px;
+	 *   }
+	 * doesn't pay attention to the whole window, just the parent.
+	 * I would like to find a way to get this to work.
+	 */
+	   
+	margin-top: 20px;
+}
+
+.movieCell {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+#credits {
+	text-align: center;
+	padding: 20px 0;
+}
+
+.subLogo {
+  margin: 0 20px;
+}

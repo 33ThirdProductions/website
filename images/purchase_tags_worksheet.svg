@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg7832"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="purchase_tags_worksheet.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1">
+  <defs
+     id="defs7834">
+    <filter
+       inkscape:collect="always"
+       id="filter6274">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="9.925987"
+         id="feGaussianBlur6276" />
+    </filter>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective7840" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter6274-7">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="9.925987"
+         id="feGaussianBlur6276-5" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4355691"
+     inkscape:cx="318.53462"
+     inkscape:cy="685.71429"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1184"
+     inkscape:window-x="1915"
+     inkscape:window-y="-10"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7837">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.39566897999999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9814"
+       width="150"
+       height="200"
+       x="350"
+       y="152.36218"
+       inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/zanecorp.com/html/project/thirty_three_and_a_third/images/buy_many-140x187.png"
+       inkscape:export-xdpi="84.150002"
+       inkscape:export-ydpi="84.150002" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L"
+       x="356.95999"
+       y="191.64792"
+       id="text9816"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/zanecorp.com/html/project/thirty_three_and_a_third/images/buy_many-140x187.png"
+       inkscape:export-xdpi="84.150002"
+       inkscape:export-ydpi="84.150002"><tspan
+         sodipodi:role="line"
+         id="tspan9828"
+         x="356.95999"
+         y="191.64792">Buy</tspan><tspan
+         sodipodi:role="line"
+         id="tspan9830"
+         x="356.95999"
+         y="231.64792">Many</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Oblique"
+       x="395.71429"
+       y="315.2193"
+       id="text9822"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/zanecorp.com/html/project/thirty_three_and_a_third/images/buy_many-140x187.png"
+       inkscape:export-xdpi="84.150002"
+       inkscape:export-ydpi="84.150002"><tspan
+         sodipodi:role="line"
+         id="tspan9824"
+         x="395.71429"
+         y="315.2193">$9</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 360,261.64818 L 490,237.36219"
+       id="path9826"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/zanecorp.com/html/project/thirty_three_and_a_third/images/buy_many-140x187.png"
+       inkscape:export-xdpi="84.150002"
+       inkscape:export-ydpi="84.150002" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L"
+       x="384.83206"
+       y="341.64789"
+       id="text9832"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/zanecorp.com/html/project/thirty_three_and_a_third/images/buy_many-140x187.png"
+       inkscape:export-xdpi="84.150002"
+       inkscape:export-ydpi="84.150002"><tspan
+         sodipodi:role="line"
+         id="tspan9834"
+         x="384.83206"
+         y="341.64789">apiece</tspan></text>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.39566898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9932"
+       width="150"
+       height="200"
+       x="349.50284"
+       y="402.36218"
+       inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/zanecorp.com/html/project/thirty_three_and_a_third/images/buy_many-140x187.png"
+       inkscape:export-xdpi="84.150002"
+       inkscape:export-ydpi="84.150002" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L"
+       x="356.46286"
+       y="441.64792"
+       id="text9934"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/zanecorp.com/html/project/thirty_three_and_a_third/images/buy_many-140x187.png"
+       inkscape:export-xdpi="84.150002"
+       inkscape:export-ydpi="84.150002"><tspan
+         sodipodi:role="line"
+         id="tspan9936"
+         x="356.46286"
+         y="441.64792">Buy</tspan><tspan
+         sodipodi:role="line"
+         id="tspan9938"
+         x="356.46286"
+         y="481.64792">Many</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Oblique"
+       x="359.21713"
+       y="569.21924"
+       id="text9940"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/zanecorp.com/html/project/thirty_three_and_a_third/images/buy_many-140x187.png"
+       inkscape:export-xdpi="84.150002"
+       inkscape:export-ydpi="84.150002"><tspan
+         sodipodi:role="line"
+         id="tspan9942"
+         x="359.21713"
+         y="569.21924">$19</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 359.50284,511.64819 L 489.50284,487.3622"
+       id="path9944"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/zanecorp.com/html/project/thirty_three_and_a_third/images/buy_many-140x187.png"
+       inkscape:export-xdpi="84.150002"
+       inkscape:export-ydpi="84.150002" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L"
+       x="384.33493"
+       y="593.64783"
+       id="text9946"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/zanecorp.com/html/project/thirty_three_and_a_third/images/buy_many-140x187.png"
+       inkscape:export-xdpi="84.150002"
+       inkscape:export-ydpi="84.150002"><tspan
+         sodipodi:role="line"
+         id="tspan9948"
+         x="384.33493"
+         y="593.64783">apiece</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10428"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:40px"><flowRegion
+         id="flowRegion10430"><rect
+           id="rect10432"
+           width="115.71429"
+           height="72.14286"
+           x="570.71429"
+           y="189.50504" /></flowRegion><flowPara
+         id="flowPara10434" /></flowRoot>    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect9287"
+       width="150"
+       height="200"
+       x="150.49715"
+       y="152.36218"
+       inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/33third_productions/site/images/buy_std-140x184.png"
+       inkscape:export-xdpi="82.989998"
+       inkscape:export-ydpi="82.989998" />
+    <text
+       xml:space="preserve"
+       style="font-size:89.69622803px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Oblique"
+       x="176.37228"
+       y="319.9426"
+       id="text9808"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/33third_productions/site/images/buy_std-140x184.png"
+       inkscape:export-xdpi="82.989998"
+       inkscape:export-ydpi="82.989998"><tspan
+         sodipodi:role="line"
+         id="tspan9810"
+         x="176.37228"
+         y="319.9426">$7</tspan></text>
+    <g
+       id="g10397"
+       transform="matrix(1.4192804,0,0,1.4192804,-129.93262,109.38906)"
+       inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/33third_productions/site/images/buy_std-140x184.png"
+       inkscape:export-xdpi="82.989998"
+       inkscape:export-ydpi="82.989998">
+      <g
+         transform="matrix(0.1296821,-0.04720043,0.04720043,0.1296821,164.65069,24.749464)"
+         id="g6278">
+        <path
+           sodipodi:type="star"
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter6274)"
+           id="path6138"
+           sodipodi:sides="20"
+           sodipodi:cx="211.42857"
+           sodipodi:cy="358.07648"
+           sodipodi:r1="263.43106"
+           sodipodi:r2="208.11053"
+           sodipodi:arg1="0.63916274"
+           sodipodi:arg2="0.79624237"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 422.85715,515.21934 -65.87662,-8.39938 6.96876,66.04329 -60.05684,-28.34529 -13.78082,64.96436 -48.35828,-45.51655 -33.18142,57.52628 -31.92607,-58.23234 -49.33401,44.45711 -12.36871,-65.24794 -60.657429,27.03618 8.399382,-65.87663 -66.0432875,6.96876 L 24.987089,450.54035 -39.977274,436.75953 5.5392774,388.40126 -51.986998,355.21983 6.2453441,323.29377 -38.21177,273.95976 27.036175,261.59105 -6.2713268e-6,200.93361 65.876619,209.333 58.90786,143.28971 l 60.05684,28.34528 13.78082,-64.96436 48.35827,45.51655 33.18143,-57.526275 31.92606,58.232345 49.33401,-44.45712 12.36871,65.24795 60.65744,-27.03618 -8.39939,65.87662 66.04329,-6.96876 -28.34528,60.05685 64.96436,13.78081 -45.51655,48.35828 57.52628,33.18142 -58.23235,31.92607 44.45712,49.33401 -65.24795,12.36871 z"
+           transform="translate(162.85714,134.28571)" />
+        <path
+           sodipodi:type="star"
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           id="path5364"
+           sodipodi:sides="20"
+           sodipodi:cx="211.42857"
+           sodipodi:cy="358.07648"
+           sodipodi:r1="263.43106"
+           sodipodi:r2="208.11053"
+           sodipodi:arg1="0.63916274"
+           sodipodi:arg2="0.79624237"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 422.85715,515.21934 -65.87662,-8.39938 6.96876,66.04329 -60.05684,-28.34529 -13.78082,64.96436 -48.35828,-45.51655 -33.18142,57.52628 -31.92607,-58.23234 -49.33401,44.45711 -12.36871,-65.24794 -60.657429,27.03618 8.399382,-65.87663 -66.0432875,6.96876 L 24.987089,450.54035 -39.977274,436.75953 5.5392774,388.40126 -51.986998,355.21983 6.2453441,323.29377 -38.21177,273.95976 27.036175,261.59105 -6.2713268e-6,200.93361 65.876619,209.333 58.90786,143.28971 l 60.05684,28.34528 13.78082,-64.96436 48.35827,45.51655 33.18143,-57.526275 31.92606,58.232345 49.33401,-44.45712 12.36871,65.24795 60.65744,-27.03618 -8.39939,65.87662 66.04329,-6.96876 -28.34528,60.05685 64.96436,13.78081 -45.51655,48.35828 57.52628,33.18142 -58.23235,31.92607 44.45712,49.33401 -65.24795,12.36871 z"
+           transform="translate(162.85714,134.28571)" />
+      </g>
+      <text
+         transform="matrix(0.9396926,-0.3420201,0.3420201,0.9396926,0,0)"
+         sodipodi:linespacing="100%"
+         id="text6282"
+         y="154.62433"
+         x="198.31523"
+         style="font-size:23.92324257px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L"
+         xml:space="preserve"><tspan
+           id="tspan6286"
+           y="154.62433"
+           x="198.31523"
+           sodipodi:role="line">Buy!</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L"
+       x="152.48203"
+       y="348.15417"
+       id="text2489"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/33third_productions/site/images/buy_std-140x184.png"
+       inkscape:export-xdpi="82.989998"
+       inkscape:export-ydpi="82.989998"><tspan
+         sodipodi:role="line"
+         x="152.48203"
+         y="348.15417"
+         id="tspan3088">dom. s&amp;h included</tspan></text>
+    <g
+       id="g3372"
+       inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/33third_productions/site/images/buy_signed-140x187.png"
+       inkscape:export-xdpi="84.150002"
+       inkscape:export-ydpi="84.150002">
+      <rect
+         inkscape:export-ydpi="84.150002"
+         inkscape:export-xdpi="84.150002"
+         inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/zanecorp.com/html/project/thirty_three_and_a_third/images/buy_signed-140x187.png"
+         y="152.36218"
+         x="550"
+         height="200"
+         width="150"
+         id="rect9836"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.39566898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="84.150002"
+         inkscape:export-xdpi="84.150002"
+         inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/zanecorp.com/html/project/thirty_three_and_a_third/images/buy_signed-140x187.png"
+         sodipodi:linespacing="100%"
+         id="text9838"
+         y="183.82977"
+         x="557.89941"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L"
+         xml:space="preserve"><tspan
+           id="tspan9856"
+           y="183.82977"
+           x="557.89941"
+           sodipodi:role="line">First 100</tspan><tspan
+           id="tspan9858"
+           y="207.82977"
+           x="557.89941"
+           sodipodi:role="line">#'ed &amp;</tspan><tspan
+           id="tspan10442"
+           y="231.82977"
+           x="557.89941"
+           sodipodi:role="line">signed</tspan></text>
+      <text
+         inkscape:export-ydpi="84.150002"
+         inkscape:export-xdpi="84.150002"
+         inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/zanecorp.com/html/project/thirty_three_and_a_third/images/buy_signed-140x187.png"
+         sodipodi:linespacing="100%"
+         id="text9844"
+         y="344.9726"
+         x="560.3905"
+         style="font-size:72px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Oblique"
+         xml:space="preserve"><tspan
+           y="344.9726"
+           x="560.3905"
+           id="tspan9846"
+           sodipodi:role="line">$9</tspan></text>
+      <path
+         inkscape:export-ydpi="84.150002"
+         inkscape:export-xdpi="84.150002"
+         inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/zanecorp.com/html/project/thirty_three_and_a_third/images/buy_signed-140x187.png"
+         sodipodi:nodetypes="cc"
+         id="path9848"
+         d="M 560,280.86218 L 690,280.86218"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         inkscape:export-ydpi="84.150002"
+         inkscape:export-xdpi="84.150002"
+         inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/zanecorp.com/html/project/thirty_three_and_a_third/images/buy_signed-140x187.png"
+         transform="translate(417.85716,180.71431)"
+         id="g10416">
+        <g
+           id="g10418"
+           transform="matrix(0.1296821,-4.7200428e-2,4.7200428e-2,0.1296821,164.65069,24.749464)">
+          <path
+             transform="translate(162.85714,134.28571)"
+             d="m 422.85715,515.21934 -65.87662,-8.39938 6.96876,66.04329 -60.05684,-28.34529 -13.78082,64.96436 -48.35828,-45.51655 -33.18142,57.52628 -31.92607,-58.23234 -49.33401,44.45711 -12.36871,-65.24794 -60.657429,27.03618 8.399382,-65.87663 -66.0432875,6.96876 L 24.987089,450.54035 -39.977274,436.75953 5.5392774,388.40126 -51.986998,355.21983 6.2453441,323.29377 -38.21177,273.95976 27.036175,261.59105 -6.2713268e-6,200.93361 65.876619,209.333 58.90786,143.28971 l 60.05684,28.34528 13.78082,-64.96436 48.35827,45.51655 33.18143,-57.526275 31.92606,58.232345 49.33401,-44.45712 12.36871,65.24795 60.65744,-27.03618 -8.39939,65.87662 66.04329,-6.96876 -28.34528,60.05685 64.96436,13.78081 -45.51655,48.35828 57.52628,33.18142 -58.23235,31.92607 44.45712,49.33401 -65.24795,12.36871 z"
+             inkscape:randomized="0"
+             inkscape:rounded="0"
+             inkscape:flatsided="false"
+             sodipodi:arg2="0.79624237"
+             sodipodi:arg1="0.63916274"
+             sodipodi:r2="208.11053"
+             sodipodi:r1="263.43106"
+             sodipodi:cy="358.07648"
+             sodipodi:cx="211.42857"
+             sodipodi:sides="20"
+             id="path10420"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6274)"
+             sodipodi:type="star" />
+          <path
+             transform="translate(162.85714,134.28571)"
+             d="m 422.85715,515.21934 -65.87662,-8.39938 6.96876,66.04329 -60.05684,-28.34529 -13.78082,64.96436 -48.35828,-45.51655 -33.18142,57.52628 -31.92607,-58.23234 -49.33401,44.45711 -12.36871,-65.24794 -60.657429,27.03618 8.399382,-65.87663 -66.0432875,6.96876 L 24.987089,450.54035 -39.977274,436.75953 5.5392774,388.40126 -51.986998,355.21983 6.2453441,323.29377 -38.21177,273.95976 27.036175,261.59105 -6.2713268e-6,200.93361 65.876619,209.333 58.90786,143.28971 l 60.05684,28.34528 13.78082,-64.96436 48.35827,45.51655 33.18143,-57.526275 31.92606,58.232345 49.33401,-44.45712 12.36871,65.24795 60.65744,-27.03618 -8.39939,65.87662 66.04329,-6.96876 -28.34528,60.05685 64.96436,13.78081 -45.51655,48.35828 57.52628,33.18142 -58.23235,31.92607 44.45712,49.33401 -65.24795,12.36871 z"
+             inkscape:randomized="0"
+             inkscape:rounded="0"
+             inkscape:flatsided="false"
+             sodipodi:arg2="0.79624237"
+             sodipodi:arg1="0.63916274"
+             sodipodi:r2="208.11053"
+             sodipodi:r1="263.43106"
+             sodipodi:cy="358.07648"
+             sodipodi:cx="211.42857"
+             sodipodi:sides="20"
+             id="path10422"
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:type="star" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:23.92324257px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L"
+           x="198.31523"
+           y="154.62433"
+           id="text10424"
+           sodipodi:linespacing="100%"
+           transform="matrix(0.9396926,-0.3420201,0.3420201,0.9396926,0,0)"><tspan
+             sodipodi:role="line"
+             x="198.31523"
+             y="154.62433"
+             id="tspan10426">Buy!</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3277"
+         y="304.72546"
+         x="649.02429"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L"
+         xml:space="preserve"><tspan
+           y="304.72546"
+           x="649.02429"
+           id="tspan3279"
+           sodipodi:role="line">+s&amp;h</tspan></text>
+    </g>
+    <g
+       id="g3390"
+       inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/33third_productions/site/images/buy_signed_short_run-140x187.png"
+       inkscape:export-xdpi="84.150002"
+       inkscape:export-ydpi="84.150002">
+      <rect
+         inkscape:export-ydpi="84.150002"
+         inkscape:export-xdpi="84.150002"
+         inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/zanecorp.com/html/project/thirty_three_and_a_third/images/buy_signed_short_run-140x187.png"
+         y="402.36218"
+         x="549.50281"
+         height="200"
+         width="150"
+         id="rect9950"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.39566898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="84.150002"
+         inkscape:export-xdpi="84.150002"
+         inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/zanecorp.com/html/project/thirty_three_and_a_third/images/buy_signed_short_run-140x187.png"
+         sodipodi:linespacing="100%"
+         id="text9952"
+         y="433.82977"
+         x="557.40222"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L"
+         xml:space="preserve"><tspan
+           y="433.82977"
+           x="557.40222"
+           id="tspan9954"
+           sodipodi:role="line">Hand</tspan><tspan
+           id="tspan9956"
+           y="457.82977"
+           x="557.40222"
+           sodipodi:role="line">#'ed &amp;</tspan><tspan
+           id="tspan9958"
+           y="481.82977"
+           x="557.40222"
+           sodipodi:role="line">signed</tspan></text>
+      <text
+         inkscape:export-ydpi="84.150002"
+         inkscape:export-xdpi="84.150002"
+         inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/zanecorp.com/html/project/thirty_three_and_a_third/images/buy_signed_short_run-140x187.png"
+         sodipodi:linespacing="100%"
+         id="text9960"
+         y="594.97253"
+         x="553.89331"
+         style="font-size:72px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Oblique"
+         xml:space="preserve"><tspan
+           y="594.97253"
+           x="553.89331"
+           id="tspan9962"
+           sodipodi:role="line">$19</tspan></text>
+      <path
+         inkscape:export-ydpi="84.150002"
+         inkscape:export-xdpi="84.150002"
+         inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/zanecorp.com/html/project/thirty_three_and_a_third/images/buy_signed_short_run-140x187.png"
+         sodipodi:nodetypes="cc"
+         id="path9964"
+         d="M 559.50284,530.86219 L 689.50284,530.86219"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         inkscape:export-ydpi="84.150002"
+         inkscape:export-xdpi="84.150002"
+         inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/zanecorp.com/html/project/thirty_three_and_a_third/images/buy_signed_short_run-140x187.png"
+         transform="translate(417.85716,437.85717)"
+         id="g10444">
+        <g
+           id="g10446"
+           transform="matrix(0.1296821,-4.7200428e-2,4.7200428e-2,0.1296821,164.65069,24.749464)">
+          <path
+             transform="translate(162.85714,134.28571)"
+             d="m 422.85715,515.21934 -65.87662,-8.39938 6.96876,66.04329 -60.05684,-28.34529 -13.78082,64.96436 -48.35828,-45.51655 -33.18142,57.52628 -31.92607,-58.23234 -49.33401,44.45711 -12.36871,-65.24794 -60.657429,27.03618 8.399382,-65.87663 -66.0432875,6.96876 L 24.987089,450.54035 -39.977274,436.75953 5.5392774,388.40126 -51.986998,355.21983 6.2453441,323.29377 -38.21177,273.95976 27.036175,261.59105 -6.2713268e-6,200.93361 65.876619,209.333 58.90786,143.28971 l 60.05684,28.34528 13.78082,-64.96436 48.35827,45.51655 33.18143,-57.526275 31.92606,58.232345 49.33401,-44.45712 12.36871,65.24795 60.65744,-27.03618 -8.39939,65.87662 66.04329,-6.96876 -28.34528,60.05685 64.96436,13.78081 -45.51655,48.35828 57.52628,33.18142 -58.23235,31.92607 44.45712,49.33401 -65.24795,12.36871 z"
+             inkscape:randomized="0"
+             inkscape:rounded="0"
+             inkscape:flatsided="false"
+             sodipodi:arg2="0.79624237"
+             sodipodi:arg1="0.63916274"
+             sodipodi:r2="208.11053"
+             sodipodi:r1="263.43106"
+             sodipodi:cy="358.07648"
+             sodipodi:cx="211.42857"
+             sodipodi:sides="20"
+             id="path10448"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6274)"
+             sodipodi:type="star" />
+          <path
+             transform="translate(162.85714,134.28571)"
+             d="m 422.85715,515.21934 -65.87662,-8.39938 6.96876,66.04329 -60.05684,-28.34529 -13.78082,64.96436 -48.35828,-45.51655 -33.18142,57.52628 -31.92607,-58.23234 -49.33401,44.45711 -12.36871,-65.24794 -60.657429,27.03618 8.399382,-65.87663 -66.0432875,6.96876 L 24.987089,450.54035 -39.977274,436.75953 5.5392774,388.40126 -51.986998,355.21983 6.2453441,323.29377 -38.21177,273.95976 27.036175,261.59105 -6.2713268e-6,200.93361 65.876619,209.333 58.90786,143.28971 l 60.05684,28.34528 13.78082,-64.96436 48.35827,45.51655 33.18143,-57.526275 31.92606,58.232345 49.33401,-44.45712 12.36871,65.24795 60.65744,-27.03618 -8.39939,65.87662 66.04329,-6.96876 -28.34528,60.05685 64.96436,13.78081 -45.51655,48.35828 57.52628,33.18142 -58.23235,31.92607 44.45712,49.33401 -65.24795,12.36871 z"
+             inkscape:randomized="0"
+             inkscape:rounded="0"
+             inkscape:flatsided="false"
+             sodipodi:arg2="0.79624237"
+             sodipodi:arg1="0.63916274"
+             sodipodi:r2="208.11053"
+             sodipodi:r1="263.43106"
+             sodipodi:cy="358.07648"
+             sodipodi:cx="211.42857"
+             sodipodi:sides="20"
+             id="path10450"
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:type="star" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:23.92324257px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L"
+           x="198.31523"
+           y="154.62433"
+           id="text10452"
+           sodipodi:linespacing="100%"
+           transform="matrix(0.9396926,-0.3420201,0.3420201,0.9396926,0,0)"><tspan
+             sodipodi:role="line"
+             x="198.31523"
+             y="154.62433"
+             id="tspan10454">Buy!</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3295"
+         y="593.91315"
+         x="648.64795"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L;stroke-miterlimit:4;stroke-dasharray:none"
+         xml:space="preserve"><tspan
+           y="593.91315"
+           x="648.64795"
+           id="tspan3297"
+           sodipodi:role="line">+s&amp;h</tspan></text>
+    </g>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect9287-2"
+       width="150"
+       height="200"
+       x="145.85316"
+       y="387.17783"
+       inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/33third_productions/site/images/buy_short_run-140x184.png"
+       inkscape:export-xdpi="82.989998"
+       inkscape:export-ydpi="82.989998" />
+    <text
+       xml:space="preserve"
+       style="font-size:86.26132202px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Oblique"
+       x="141.21779"
+       y="551.97595"
+       id="text9808-2"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/33third_productions/site/images/buy_short_run-140x184.png"
+       inkscape:export-xdpi="82.989998"
+       inkscape:export-ydpi="82.989998"><tspan
+         sodipodi:role="line"
+         id="tspan9810-8"
+         x="141.21779"
+         y="551.97595">$19</tspan></text>
+    <g
+       id="g10397-9"
+       transform="matrix(1.4192804,0,0,1.4192804,-134.5766,344.20469)"
+       inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/33third_productions/site/images/buy_short_run-140x184.png"
+       inkscape:export-xdpi="82.989998"
+       inkscape:export-ydpi="82.989998">
+      <g
+         transform="matrix(0.1296821,-0.04720043,0.04720043,0.1296821,164.65069,24.749464)"
+         id="g6278-7">
+        <path
+           sodipodi:type="star"
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter6274-7)"
+           id="path6138-3"
+           sodipodi:sides="20"
+           sodipodi:cx="211.42857"
+           sodipodi:cy="358.07648"
+           sodipodi:r1="263.43106"
+           sodipodi:r2="208.11053"
+           sodipodi:arg1="0.63916274"
+           sodipodi:arg2="0.79624237"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 422.85715,515.21934 -65.87662,-8.39938 6.96876,66.04329 -60.05684,-28.34529 -13.78082,64.96436 -48.35828,-45.51655 -33.18142,57.52628 -31.92607,-58.23234 -49.33401,44.45711 -12.36871,-65.24794 -60.657429,27.03618 8.399382,-65.87663 -66.0432875,6.96876 L 24.987089,450.54035 -39.977274,436.75953 5.5392774,388.40126 -51.986998,355.21983 6.2453441,323.29377 -38.21177,273.95976 27.036175,261.59105 -6.2713268e-6,200.93361 65.876619,209.333 58.90786,143.28971 l 60.05684,28.34528 13.78082,-64.96436 48.35827,45.51655 33.18143,-57.526275 31.92606,58.232345 49.33401,-44.45712 12.36871,65.24795 60.65744,-27.03618 -8.39939,65.87662 66.04329,-6.96876 -28.34528,60.05685 64.96436,13.78081 -45.51655,48.35828 57.52628,33.18142 -58.23235,31.92607 44.45712,49.33401 -65.24795,12.36871 z"
+           transform="translate(162.85714,134.28571)" />
+        <path
+           sodipodi:type="star"
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           id="path5364-6"
+           sodipodi:sides="20"
+           sodipodi:cx="211.42857"
+           sodipodi:cy="358.07648"
+           sodipodi:r1="263.43106"
+           sodipodi:r2="208.11053"
+           sodipodi:arg1="0.63916274"
+           sodipodi:arg2="0.79624237"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 422.85715,515.21934 -65.87662,-8.39938 6.96876,66.04329 -60.05684,-28.34529 -13.78082,64.96436 -48.35828,-45.51655 -33.18142,57.52628 -31.92607,-58.23234 -49.33401,44.45711 -12.36871,-65.24794 -60.657429,27.03618 8.399382,-65.87663 -66.0432875,6.96876 L 24.987089,450.54035 -39.977274,436.75953 5.5392774,388.40126 -51.986998,355.21983 6.2453441,323.29377 -38.21177,273.95976 27.036175,261.59105 -6.2713268e-6,200.93361 65.876619,209.333 58.90786,143.28971 l 60.05684,28.34528 13.78082,-64.96436 48.35827,45.51655 33.18143,-57.526275 31.92606,58.232345 49.33401,-44.45712 12.36871,65.24795 60.65744,-27.03618 -8.39939,65.87662 66.04329,-6.96876 -28.34528,60.05685 64.96436,13.78081 -45.51655,48.35828 57.52628,33.18142 -58.23235,31.92607 44.45712,49.33401 -65.24795,12.36871 z"
+           transform="translate(162.85714,134.28571)" />
+      </g>
+      <text
+         transform="matrix(0.9396926,-0.3420201,0.3420201,0.9396926,0,0)"
+         sodipodi:linespacing="100%"
+         id="text6282-1"
+         y="154.62433"
+         x="198.31523"
+         style="font-size:23.92324257px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L"
+         xml:space="preserve"><tspan
+           id="tspan6286-2"
+           y="154.62433"
+           x="198.31523"
+           sodipodi:role="line">Buy!</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L"
+       x="147.83804"
+       y="582.96979"
+       id="text2489-9"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/zane/playground/trunk/personal/rockenbaugh/projects/33third_productions/site/images/buy_short_run-140x184.png"
+       inkscape:export-xdpi="82.989998"
+       inkscape:export-ydpi="82.989998"><tspan
+         sodipodi:role="line"
+         x="147.83804"
+         y="582.96979"
+         id="tspan3088-3">dom. s&amp;h included</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+All text is exported from inkscape, which does the best job at scaling and
+manipulating fonts. (Not necessary in the simple cases, but that's the
+process.)
+
+For the main section plaques, the fuzzy border is black, 12px wide, blurred,
+4.0 granularity, no shadowns. Background is 65% opacity.

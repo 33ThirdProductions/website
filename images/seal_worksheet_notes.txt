@@ -1,0 +1,5 @@
+Inkscape (suse 11.1 version) doesn't get the shadow under the seals. It's
+necessary to select the elements, then select 'custom' under export (which
+will default to the selection values) and then move each number "out" by 12
+units. That means subtracting 12 from the first column and adding to the
+second.

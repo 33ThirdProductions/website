@@ -1,0 +1,6 @@
+- the shadow on the seals peters out because at the point, we want the shadow
+  to extend to a point as well. I think the best thing to do would be to
+  copy the first shadow object, then upth spike ratio and slightly increase
+  size so that the spikes protrude slightly at the tips. Center align the two
+  objects and copy the blur from second. (May not work, but this is my
+  thought.)

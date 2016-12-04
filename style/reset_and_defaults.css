@@ -1,0 +1,23 @@
+* { padding: 0; margin: 0; }
+
+body {
+	/* our common sans-serif */
+	font: 15px/1.5 Verdana,Arial,Helvetica,sans-serif;
+}
+
+a img { border: none; }
+
+:focus { outline: 0; }
+
+ol, ul {
+  list-style-position: inside;
+}
+
+li li {
+	padding-left: 1.5em;
+}
+
+#footer {
+	text-align: center;
+	font-size: 11px;
+}
